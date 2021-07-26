@@ -1,0 +1,15 @@
+astroid==2.6.2
+cffi==1.14.6
+isort==5.9.2
+lazy-object-proxy==1.6.0
+mariadb==1.0.7
+mccabe==0.6.1
+protobuf==3.17.3
+pycparser==2.20
+pylint==2.9.3
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+six==1.16.0
+toml==0.10.2
+wrapt==1.12.1
